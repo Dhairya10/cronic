@@ -1,6 +1,6 @@
 from fastapi import APIRouter, Depends, HTTPException
 from fastapi.security import HTTPBearer
-from typing import Dict, Any, List
+from typing import Dict, Any
 from models.patients import PatientCreate, Patient
 from services.patient_service import PatientService
 from auth.verify import verify_token

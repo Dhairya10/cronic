@@ -24,7 +24,7 @@ async def lifespan(app: FastAPI):
         process_pool.shutdown(wait=True)
 
 app = FastAPI(
-    title="Document API",
+    title="Cronic API",
     description="API for handling KYC and claim documents",
     version="1.0.0",
     lifespan=lifespan

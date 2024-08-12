@@ -1,9 +1,9 @@
 from typing import Dict, Any, Tuple
 import google.generativeai as genai
-from utils.helper import load_prompt_from_file, add_data_to_firestore, get_data_from_firestore
+from utils.helper import load_prompt_from_file, add_data_to_firestore
 from config.logger import logger
 from datetime import datetime, date
-from models.bills import BillCreate, BillType, BillStatus, Bill
+from models.bills import BillCreate, BillType, BillStatus
 from services.doc_verifier import DocVerifier
 from proto.marshal.collections.maps import MapComposite
 import re
