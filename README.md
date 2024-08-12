@@ -15,4 +15,4 @@ Cronic is an Android app that empowers low-income patients in India with instant
 * Upload the bill stored in `sample_docs` directory for testing
 
 ## App Architecture
-<img src="./app_arch.png" alt="Architecture Diagram" width="500">
+<img src="./app_arch.png" alt="Architecture Diagram" width="1000">
