@@ -1,0 +1,4 @@
+{
+    "prompt_claim_classification" : "Analyze the given medical document and determine its type. Based on the content, choose the most appropriate function to process this document from the available function declarations. The document could be a hospital discharge bill, a pharmacy bill, or a doctor's prescription.",
+    "prompt_kyc_classification": "Analyse the given KYC documents and determine its type. Based on the content, choose the most appropriate function to process this document from the available function declarations. The document could be a Aadhar card front, Aadhar card back,a Pan card, or a bank passbook."
+}

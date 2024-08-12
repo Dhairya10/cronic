@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "950792427368",
+    "project_id": "renalize",
+    "storage_bucket": "renalize.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950792427368:android:6c0f1a0b182581ad31a8dd",
+        "android_client_info": {
+          "package_name": "com.renalize.android"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIi5iWCncJ6u5GQJAbflIkm5aigVpklvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

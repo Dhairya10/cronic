@@ -1,0 +1,12 @@
+python-dotenv
+firebase-admin
+google-cloud-storage
+pdf2image
+google-generativeai==0.7.2
+fastapi
+uvicorn
+pydantic
+pytest
+pytest-mock
+fastapi-limiter
+pydantic_settings
